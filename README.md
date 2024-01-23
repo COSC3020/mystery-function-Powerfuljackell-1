@@ -12,3 +12,4 @@ function mystery(a) {
     else return a[0];
 }
 ```
+The mystery function recursively finds the largest value in a provided array
